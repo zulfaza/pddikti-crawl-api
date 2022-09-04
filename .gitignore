@@ -1,0 +1,10 @@
+# misc
+.DS_Store
+*.pem
+
+logs/*
+node_modules/*
+.env
+.env.local
+results/*
+awardee_data.json

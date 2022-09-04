@@ -1,0 +1,19 @@
+{
+  "name": "coba-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "js-levenshtein": "^1.1.6"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
